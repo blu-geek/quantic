@@ -1,1 +1,1 @@
-console.log("Feature Branches");
+console.log("Keep simple.");
